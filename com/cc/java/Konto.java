@@ -7,4 +7,6 @@ public class Konto {
     public String Kontostand() {
         return this.Kontostand();
     }
+
+    
 }
